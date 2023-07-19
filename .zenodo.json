@@ -1,10 +1,18 @@
 {
     "license": "MIT", 
+    "notes": "Acknowledgments: These data were obtained from NASA and the GLOBE Program and are freely available for use in research, publications and commercial applications.", 
+    "references": [
+        "Global Learning and Observations to Benefit the Environment (GLOBE) Program, 2023-07-01, https://www.globe.gov/globe-data."
+    ], 
+    "upload_type": "software", 
     "creators": [
         {
-            "affiliation": "IGES", 
-            "name": "Andrew Clark"
+            "affiliation": "Author One Affiliation", 
+            "name": "Author One"
+        },
+        {
+            "affiliation": "Author Two Affiliation", 
+            "name": "Author Two"
         }
-    ], 
-    "access_right": "open"
+    ]
 }
