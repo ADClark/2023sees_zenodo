@@ -1,27 +1,10 @@
 {
-    "description": "<p>Release Description - edited via GUI</p>", 
-    "license": "other-open", 
-    "title": "ADClark/2023sees_zenodo: Publication Release", 
-    "version": "v0.0.0-test", 
-    "upload_type": "software", 
-    "publication_date": "2023-07-19", 
+    "license": "MIT", 
     "creators": [
         {
             "affiliation": "IGES", 
             "name": "Andrew Clark"
         }
     ], 
-    "access_right": "open", 
-    "related_identifiers": [
-        {
-            "scheme": "url", 
-            "identifier": "https://github.com/ADClark/2023sees_zenodo/tree/v0.0.0-test", 
-            "relation": "isSupplementTo"
-        }, 
-        {
-            "scheme": "doi", 
-            "identifier": "10.5072/zenodo.1222836", 
-            "relation": "isVersionOf"
-        }
-    ]
+    "access_right": "open"
 }
